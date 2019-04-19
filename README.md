@@ -1,2 +1,2 @@
-# reinforcemente-learning
+# reinforcement-learning
 Reinforcement Learning examples
