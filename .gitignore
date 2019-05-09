@@ -105,6 +105,7 @@ venv.bak/
 
 
 # Pycharm + all
+.DS_Store
 
 # Created by https://www.gitignore.io/api/pycharm+all
 # Edit at https://www.gitignore.io/?templates=pycharm+all
@@ -195,5 +196,9 @@ modules.xml
 
 # Sonarlint plugin
 .idea/sonarlint
+
+# RL Models
+reinforcement-learning-examples/src/models/
+reinforcement-learning-examples/src/tensorboard/
 
 # End of https://www.gitignore.io/api/pycharm+all
