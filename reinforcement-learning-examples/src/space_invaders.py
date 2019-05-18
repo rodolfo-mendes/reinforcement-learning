@@ -75,8 +75,8 @@ action_size = env.action_space.n  # 8 possible actions
 learning_rate = 0.00025           # Alpha (learning rate)
 
 # TRAINING HYPERPARAMETERS
-total_episodes = 50               # total episodes for training
-max_steps = 50000                 # max steps for a episode
+total_episodes = 1               # total episodes for training
+max_steps = 100                 # max steps for a episode
 
 # total_episodes = 10               # total episodes for training
 # max_steps = 100                 # max steps for a episode
